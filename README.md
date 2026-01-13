@@ -9,4 +9,4 @@
 - 本项目遵循 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 许可协议。  
 
 ### 🌟 贡献 & 反馈   
-如果发现问题，可以通过 [**Issues**](https://github.com/yunfog/kumoutaSub/issues) 提交反馈，或者直接通过 PR 修正错误。  
+如果发现问题，可以通过 [**Issues**](https://github.com/yunfog/KumoutaSub/issues) 提交反馈，或者直接通过 PR 修正错误。  
